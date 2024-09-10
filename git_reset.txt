@@ -1,5 +1,9 @@
 start lại
+<<<<<<< HEAD
 Sửa file A
+=======
+Thêm file A, sửa thêm file thành thêm line.
+>>>>>>> 1d9ed85f2c41c341e80badcf5cbeb4f88124844c
 
 Thêm file B
 
