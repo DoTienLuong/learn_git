@@ -1,1 +1,3 @@
 Today, i will try hard with git, C and SQL
+
+Now, tôi là laptop, tôi đang thêm nội dung dòng 3.
