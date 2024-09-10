@@ -1,1 +1,3 @@
 Nội dung 1: working directory (cây chỉ mục): các thay đổi của file.
+
+Nội dung 2: staging area (chỉ mục): lưu những git add . trước khi commit 
