@@ -1,0 +1,1 @@
+Nội dung 1: working directory (cây chỉ mục): các thay đổi của file.
