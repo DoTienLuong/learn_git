@@ -1,2 +1,6 @@
 start lại
 Thêm file A
+
+Thêm file B
+
+Thêm file C
