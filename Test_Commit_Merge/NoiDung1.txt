@@ -1,7 +1,0 @@
-Today, i will try hard with git, C and SQL
-
-<<<<<<< HEAD
-Tôi là PC, tôi đang thêm nội dung dòng 3.
-=======
-Now, tôi là laptop, tôi đang thêm nội dung dòng 3.
->>>>>>> cc66ad654417ea537ec4ed3ab9449af28836271f
