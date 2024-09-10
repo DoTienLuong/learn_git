@@ -1,5 +1,5 @@
 start lại
-Thêm file A
+Thêm file A, sửa thêm file thành thêm line.
 
 Thêm file B
 
