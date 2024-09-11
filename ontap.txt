@@ -1,6 +1,7 @@
 noi dung A (ngay 1)
 
-Noi dung B (ngay 2)
+Noi dung B (ngay 2) ----> Sửa nội dung B (ngay 5)
 
-Noi dung C (ngay 3)
+Noi dung C (ngay 3) ----> Sửa nội dung C (ngay 6)
 
+Noi dung D (ngay 4)
